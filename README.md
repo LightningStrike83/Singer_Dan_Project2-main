@@ -22,7 +22,7 @@ TODO: Write usage instructions
 
 01/21/22- Created repo and initial files
 01/22/22- Finished wireframes, created and finished the scaffolding
-01/23/22- Cleanup the coding, colours, added sizes to wireframe
+01/23/22- Cleanup the coding, colours, added sizes to wireframe, added final files to project folder
 
 ## Credits  
 
