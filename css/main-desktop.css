@@ -39,6 +39,7 @@ section, header {
 #container {
     width: 1200px;
     margin: 0 auto;
+    background-color: #242424;
 }
 
 /* 3. Header */
