@@ -1,6 +1,6 @@
-# Wireframes For FIP  
+# Orbitz Scaffolding  
 
-Low fidelity and high fidelity wireframes with initial HTML setup for Orbitz  
+Scaffolding and the necessary files for the FIP    
 
 ## Installation  
 
