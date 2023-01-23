@@ -1,6 +1,6 @@
-# Project Name  
+# Wireframes For FIP  
 
-TODO: Write a project description  
+Low fidelity and high fidelity wireframes with initial HTML setup for Orbitz  
 
 ## Installation  
 
@@ -20,7 +20,8 @@ TODO: Write usage instructions
 
 ## History  
 
-TODO: Write history  
+01/21/22- Created repo and initial files
+01/22/22- Finished wireframes, created and finished the scaffolding
 
 ## Credits  
 
