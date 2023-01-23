@@ -1,14 +1,6 @@
 # Orbitz Scaffolding  
 
-Scaffolding and the necessary files for the FIP    
-
-## Installation  
-
-TODO: Describe the installation process  
-
-## Usage  
-
-TODO: Write usage instructions  
+Scaffolding and the necessary files for the FIP     
 
 ## Contributing  
 
