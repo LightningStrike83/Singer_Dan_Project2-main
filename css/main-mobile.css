@@ -1,8 +1,127 @@
+/* 1. General Styles */
+
 .hidden {
     display: none;
+}
+
+.boxcolour {
+    background-color: #AFAFAF;
+}
+
+.boxcolour2 {
+    background-color: #7B7B7B;
+}
+
+.boxcolour3 {
+    background-color: #3B3B3B;
+}
+
+section, header {
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+/* 2. Container and Grid */
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(4, 98px);
+    grid-column-gap: 12px;
+    grid-row-gap: 0;
 }
 
 #container {
     width: 428px;
     margin: 0 auto;
 }
+
+/* 3. Header */
+
+#main_header {
+    display: grid;
+    height: 220px;
+    width: 428px;
+}
+
+#header_logo {
+    height: 110px;
+    width: 207px;
+    margin-top: 55px;
+    grid-column: 1/3;
+}
+
+#hamburger {
+    height: 110px;
+    width: 207px;
+    grid-column: 3/-1;
+    margin-top: 55px;
+}
+
+.hamburger_menu {
+    display: block;
+    height: 5px;
+    width: 110px;
+    margin-top: 23px;
+    margin-left: 49px;
+    background-color: #3B3B3B;
+}
+
+.hamburger_menu:first-of-type {
+    margin-top: 27px;
+}
+
+/* 4. Visual Appeal */
+
+#visual_appeal {
+    height: 527px;
+    width: 428px;
+}
+
+/* 5. Flavours */
+
+#flavours {
+    height: 542px;
+    width: 428px;
+}
+
+#flavours_slider {
+    height: 260px;
+    width: 428px;
+    margin-top: 33px;
+}
+
+#flavours_text {
+    height: 185px;
+    width: 428px;
+    margin-top: 32px;
+}
+
+/* 6. Collab */
+
+#collab {
+    height: 525px;
+    width: 428px;
+}
+
+#new_flavour {
+    height: 300px;
+    width: 208px;
+    grid-column: 1/3;
+}
+
+#mascot {
+    height: 300px;
+    width: 208px;
+    grid-column: 3/-1;
+}
+
+#collab_info {
+    height: 180px;
+    width: 428px;
+}
+
+/* 7. Information */
+
+/* 8. Updates */
+
+/* 9. Footer */
