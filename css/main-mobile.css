@@ -40,6 +40,7 @@ section, header {
 #container {
     width: 428px;
     margin: 0 auto;
+    background-color: #242424;
 }
 
 /* 3. Header */
