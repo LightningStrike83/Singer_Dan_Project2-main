@@ -33,6 +33,7 @@ section, header {
     display: grid;
     grid-template-columns: repeat(3, 136px);
     grid-column-gap: 16px;
+    grid-auto-rows: 0px;
 }
 
 #container {
@@ -229,7 +230,7 @@ section, header {
 }
 
 #email {
-    margin-top: 20px;
+    margin-top: 79px;
     height: 40px;
     width: 288px;
     grid-column: 2/-1;
@@ -239,20 +240,20 @@ section, header {
     height: 35px;
     width: 70px;
     margin-left: 66px;
-    margin-top: 115px;
+    margin-top: 233px;
 }
 
 #body {
-    margin-top: 20px;
     height: 130px;
     width: 288px;
     grid-column: 2/-1;
+    margin-top: 138px;
 }
 
 .smicons {
     height: 65px;
     width: 65px;
-    margin-right: 25px;
+    margin-right: 25.5px;
     display: inline-block;
 }
 
